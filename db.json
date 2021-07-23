@@ -1,0 +1,23 @@
+{
+  "usuarios": [
+    {
+      "email": "teste@email.com.br",
+      "password": "123456"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Foo Bar",
+      "cpf": "213.123.123-45",
+      "email": "foo_bar@email.com",
+      "endereco": {
+        "cep": 13454000,
+        "rua": "rua talvez",
+        "numero": 785,
+        "bairro": "bairro azul",
+        "cidade": "cidade eterna"
+      },
+      "id": 1
+    }
+  ]
+}
