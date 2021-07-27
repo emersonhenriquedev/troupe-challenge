@@ -11,3 +11,7 @@ yarn start
 ### Servidor
 
 npm run server
+
+### login
+email: teste@email.com.br
+senha: 123456
